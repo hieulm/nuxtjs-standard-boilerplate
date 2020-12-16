@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/hieule/Code/POC/nuxtjs-demo/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_63ba7930"
+  },
+  {
+    "name": "todos",
+    "path": "/todos",
+    "component": "/home/hieule/Code/POC/nuxtjs-demo/pages/todos.vue",
+    "chunkName": "pages/todos",
+    "_name": "_5b0e4690"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/hieule/Code/POC/nuxtjs-demo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f91b5816"
+  }
+]

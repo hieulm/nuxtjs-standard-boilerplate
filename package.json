@@ -1,0 +1,23 @@
+{
+  "name": "nuxtjs-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.11"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-prettier-vue": "^2.1.1",
+    "eslint-plugin-vue": "^7.2.0",
+    "prettier": "^2.2.1",
+    "prettier-standard": "^16.4.1"
+  }
+}
